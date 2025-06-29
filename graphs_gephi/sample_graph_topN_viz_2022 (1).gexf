@@ -1,0 +1,743 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns:viz="http://www.gexf.net/1.2draft/viz" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-06-28">
+    <creator>NetworkX 3.2.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="degree" type="long" />
+    </attributes>
+    <nodes>
+      <node id="0000-0001-6827-8330" label="Anna Roberts">
+        <viz:color r="71" g="17" b="99" a="1.0" />
+        <viz:size value="1.3846153846153846" />
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </node>
+      <node id="0000-0003-0290-9034" label="Ning Jiao">
+        <viz:color r="69" g="5" b="88" a="1.0" />
+        <viz:size value="0.46153846153846156" />
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="0000-0002-9292-3261" label="Lisa I Pilkington">
+        <viz:color r="71" g="43" b="122" a="1.0" />
+        <viz:size value="3.6923076923076925" />
+        <attvalues>
+          <attvalue for="0" value="16" />
+        </attvalues>
+      </node>
+      <node id="0000-0002-6380-0414" label="Heeyeop Chae">
+        <viz:color r="70" g="14" b="97" a="1.0" />
+        <viz:size value="1.153846153846154" />
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </node>
+      <node id="0000-0002-9442-8301" label="Carlos Galhano">
+        <viz:color r="68" g="55" b="129" a="1.0" />
+        <viz:size value="4.846153846153847" />
+        <attvalues>
+          <attvalue for="0" value="21" />
+        </attvalues>
+      </node>
+      <node id="0000-0002-6181-7298" label="Bin Dong">
+        <viz:color r="68" g="2" b="85" a="1.0" />
+        <viz:size value="0.23076923076923078" />
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="0000-0003-4357-4269" label="João Brito">
+        <viz:color r="64" g="67" b="135" a="1.0" />
+        <viz:size value="6.0" />
+        <attvalues>
+          <attvalue for="0" value="26" />
+        </attvalues>
+      </node>
+      <node id="0000-0001-9190-6913" label="Joanna Bojarska">
+        <viz:color r="69" g="50" b="127" a="1.0" />
+        <viz:size value="4.384615384615385" />
+        <attvalues>
+          <attvalue for="0" value="19" />
+        </attvalues>
+      </node>
+      <node id="0000-0001-7014-9095" label="F Otsuka">
+        <viz:color r="70" g="45" b="124" a="1.0" />
+        <viz:size value="3.9230769230769234" />
+        <attvalues>
+          <attvalue for="0" value="17" />
+        </attvalues>
+      </node>
+      <node id="0000-0002-7779-5740" label="S Dekeyzer">
+        <viz:color r="70" g="11" b="94" a="1.0" />
+        <viz:size value="0.9230769230769231" />
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+      <node id="0000-0003-3095-2988" label="Nicole Indran">
+        <viz:color r="68" g="2" b="85" a="1.0" />
+        <viz:size value="0.23076923076923078" />
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="0000-0001-7168-5906" label="Ana C Medeiros-Ribeiro">
+        <viz:color r="71" g="17" b="99" a="1.0" />
+        <viz:size value="1.3846153846153846" />
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </node>
+      <node id="0000-0001-6038-5131" label="Peder Af Geijerstam">
+        <viz:color r="68" g="2" b="85" a="1.0" />
+        <viz:size value="0.23076923076923078" />
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="0000-0003-1119-7980" label="Giacomo Angelini">
+        <viz:color r="71" g="17" b="99" a="1.0" />
+        <viz:size value="1.3846153846153846" />
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </node>
+      <node id="0000-0003-3005-3317" label="Daren Mueller">
+        <viz:color r="72" g="28" b="110" a="1.0" />
+        <viz:size value="2.307692307692308" />
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="0000-0002-0298-1012" label="Pascal Stammet">
+        <viz:color r="72" g="35" b="116" a="1.0" />
+        <viz:size value="3.0" />
+        <attvalues>
+          <attvalue for="0" value="13" />
+        </attvalues>
+      </node>
+      <node id="0000-0001-7443-0458" label="Azra Pašić">
+        <viz:color r="70" g="14" b="97" a="1.0" />
+        <viz:size value="1.153846153846154" />
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </node>
+      <node id="0000-0002-9549-3746" label="Ali Khosronejad">
+        <viz:color r="68" g="2" b="85" a="1.0" />
+        <viz:size value="0.23076923076923078" />
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="0000-0001-9732-0606" label="Jenny Lövdahl">
+        <viz:color r="68" g="2" b="85" a="1.0" />
+        <viz:size value="0.23076923076923078" />
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="0000-0002-7237-7654" label="Khanyaluck Subkrajang">
+        <viz:color r="69" g="8" b="91" a="1.0" />
+        <viz:size value="0.6923076923076923" />
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="0000-0001-6395-7422" label="Shaojie Song">
+        <viz:color r="72" g="25" b="107" a="1.0" />
+        <viz:size value="2.076923076923077" />
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </node>
+      <node id="0000-0002-2099-4714" label="Vicki S Helgeson">
+        <viz:color r="71" g="20" b="102" a="1.0" />
+        <viz:size value="1.6153846153846154" />
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </node>
+      <node id="0000-0002-7117-0547" label="Adonis Protopapas">
+        <viz:color r="71" g="17" b="99" a="1.0" />
+        <viz:size value="1.3846153846153846" />
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </node>
+      <node id="0000-0003-0739-3735" label="Baojun Xu">
+        <viz:color r="61" g="76" b="137" a="1.0" />
+        <viz:size value="6.923076923076923" />
+        <attvalues>
+          <attvalue for="0" value="30" />
+        </attvalues>
+      </node>
+      <node id="0000-0003-1431-4054" label="Andrew T Trout">
+        <viz:color r="72" g="30" b="112" a="1.0" />
+        <viz:size value="2.5384615384615388" />
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </node>
+      <node id="0000-0001-6133-7318" label="Cornelia Blume">
+        <viz:color r="72" g="25" b="107" a="1.0" />
+        <viz:size value="2.076923076923077" />
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </node>
+      <node id="0000-0002-2614-5027" label="Dan Yi">
+        <viz:color r="72" g="28" b="110" a="1.0" />
+        <viz:size value="2.307692307692308" />
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="0000-0002-1297-6938" label="Iago Neira">
+        <viz:color r="69" g="8" b="91" a="1.0" />
+        <viz:size value="0.6923076923076923" />
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="0000-0002-2140-9732" label="Michał Pruc">
+        <viz:color r="49" g="100" b="141" a="1.0" />
+        <viz:size value="9.692307692307693" />
+        <attvalues>
+          <attvalue for="0" value="42" />
+        </attvalues>
+      </node>
+      <node id="0000-0002-8096-4277" label="Polina Trachuk">
+        <viz:color r="68" g="1" b="84" a="1.0" />
+        <viz:size value="0.0" />
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="0000-0002-0185-6260" label="Lionel Blanc">
+        <viz:color r="71" g="43" b="122" a="1.0" />
+        <viz:size value="3.6923076923076925" />
+        <attvalues>
+          <attvalue for="0" value="16" />
+        </attvalues>
+      </node>
+      <node id="0000-0002-1052-8605" label="Puay Hoon Tan">
+        <viz:color r="63" g="69" b="135" a="1.0" />
+        <viz:size value="6.230769230769231" />
+        <attvalues>
+          <attvalue for="0" value="27" />
+        </attvalues>
+      </node>
+      <node id="0000-0002-0861-6569" label="Jonne Åkerla">
+        <viz:color r="68" g="1" b="84" a="1.0" />
+        <viz:size value="0.0" />
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="0000-0001-6400-9600" label="Anatoliy Maslyukov">
+        <viz:color r="70" g="14" b="97" a="1.0" />
+        <viz:size value="1.153846153846154" />
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </node>
+      <node id="0000-0003-4905-6948" label="Riccardo Di Fiore">
+        <viz:color r="72" g="28" b="110" a="1.0" />
+        <viz:size value="2.307692307692308" />
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="0000-0003-3878-2143" label="Olubanke Dzahini">
+        <viz:color r="70" g="11" b="94" a="1.0" />
+        <viz:size value="0.9230769230769231" />
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+      <node id="0000-0003-1236-3047" label="Wei He">
+        <viz:color r="70" g="11" b="94" a="1.0" />
+        <viz:size value="0.9230769230769231" />
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+      <node id="0000-0002-8707-6627" label="Rania El Lababidi">
+        <viz:color r="69" g="5" b="88" a="1.0" />
+        <viz:size value="0.46153846153846156" />
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="0000-0001-5284-8976" label="Zhengyun Ren">
+        <viz:color r="69" g="5" b="88" a="1.0" />
+        <viz:size value="0.46153846153846156" />
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="0000-0002-3484-3423" label="Shahryar Alavi">
+        <viz:color r="72" g="35" b="116" a="1.0" />
+        <viz:size value="3.0" />
+        <attvalues>
+          <attvalue for="0" value="13" />
+        </attvalues>
+      </node>
+      <node id="0000-0003-3923-0797" label="Curtis A Deutsch">
+        <viz:color r="69" g="50" b="127" a="1.0" />
+        <viz:size value="4.384615384615385" />
+        <attvalues>
+          <attvalue for="0" value="19" />
+        </attvalues>
+      </node>
+      <node id="0000-0001-5640-0458" label="Fan Xu">
+        <viz:color r="68" g="2" b="85" a="1.0" />
+        <viz:size value="0.23076923076923078" />
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="0000-0003-1745-4642" label="Shuang Zhang">
+        <viz:color r="71" g="40" b="120" a="1.0" />
+        <viz:size value="3.4615384615384617" />
+        <attvalues>
+          <attvalue for="0" value="15" />
+        </attvalues>
+      </node>
+      <node id="0000-0002-2683-0366" label="Shutong Wei">
+        <viz:color r="68" g="2" b="85" a="1.0" />
+        <viz:size value="0.23076923076923078" />
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="0000-0002-1776-7844" label="Marlene Vuillemin">
+        <viz:color r="69" g="8" b="91" a="1.0" />
+        <viz:size value="0.6923076923076923" />
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="0000-0002-6211-5888" label="Mercedes Boronat">
+        <viz:color r="70" g="14" b="97" a="1.0" />
+        <viz:size value="1.153846153846154" />
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </node>
+      <node id="0000-0002-7290-5154" label="Parvesh Wadhwani">
+        <viz:color r="70" g="14" b="97" a="1.0" />
+        <viz:size value="1.153846153846154" />
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </node>
+      <node id="0000-0002-5553-0186" label="Junliang Yang">
+        <viz:color r="71" g="17" b="99" a="1.0" />
+        <viz:size value="1.3846153846153846" />
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </node>
+      <node id="0000-0002-6659-6930" label="Benjamin David Thomas">
+        <viz:color r="63" g="69" b="135" a="1.0" />
+        <viz:size value="6.230769230769231" />
+        <attvalues>
+          <attvalue for="0" value="27" />
+        </attvalues>
+      </node>
+      <node id="0000-0001-9527-0115" label="Yasutsugu Akasaki">
+        <viz:color r="71" g="40" b="120" a="1.0" />
+        <viz:size value="3.4615384615384617" />
+        <attvalues>
+          <attvalue for="0" value="15" />
+        </attvalues>
+      </node>
+      <node id="0000-0002-0528-9531" label="Christine Sarah Hopp">
+        <viz:color r="71" g="22" b="105" a="1.0" />
+        <viz:size value="1.8461538461538463" />
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </node>
+      <node id="0000-0002-4248-0730" label="Dominik Martin-Creuzburg">
+        <viz:color r="69" g="5" b="88" a="1.0" />
+        <viz:size value="0.46153846153846156" />
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="0000-0003-1096-7779" label="Jacek Tomków">
+        <viz:color r="71" g="40" b="120" a="1.0" />
+        <viz:size value="3.4615384615384617" />
+        <attvalues>
+          <attvalue for="0" value="15" />
+        </attvalues>
+      </node>
+      <node id="0000-0001-6449-5290" label="Enshuang Wang">
+        <viz:color r="69" g="8" b="91" a="1.0" />
+        <viz:size value="0.6923076923076923" />
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="0000-0002-6013-0785" label="Ya Zhang">
+        <viz:color r="68" g="1" b="84" a="1.0" />
+        <viz:size value="0.0" />
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="0000-0003-2408-0781" label="Kazunobu Une">
+        <viz:color r="68" g="1" b="84" a="1.0" />
+        <viz:size value="0.0" />
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="0000-0002-7715-3764" label="Olaia Lucas-Jiménez">
+        <viz:color r="72" g="33" b="114" a="1.0" />
+        <viz:size value="2.769230769230769" />
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </node>
+      <node id="0000-0001-7836-3360" label="Bu-Min Kim">
+        <viz:color r="69" g="8" b="91" a="1.0" />
+        <viz:size value="0.6923076923076923" />
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="0000-0002-0089-9314" label="Shengyong Mao">
+        <viz:color r="68" g="1" b="84" a="1.0" />
+        <viz:size value="0.0" />
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="0000-0002-3607-6889" label="Jonathan Cools-Lartigue">
+        <viz:color r="69" g="5" b="88" a="1.0" />
+        <viz:size value="0.46153846153846156" />
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="0000-0003-3074-7175" label="Krzysztof Lewiński">
+        <viz:color r="70" g="14" b="97" a="1.0" />
+        <viz:size value="1.153846153846154" />
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </node>
+      <node id="0000-0002-9704-6579" label="Ana P Rodrigues">
+        <viz:color r="66" g="62" b="133" a="1.0" />
+        <viz:size value="5.538461538461538" />
+        <attvalues>
+          <attvalue for="0" value="24" />
+        </attvalues>
+      </node>
+      <node id="0000-0001-5332-6774" label="Simona Paladino">
+        <viz:color r="71" g="43" b="122" a="1.0" />
+        <viz:size value="3.6923076923076925" />
+        <attvalues>
+          <attvalue for="0" value="16" />
+        </attvalues>
+      </node>
+      <node id="0000-0002-3884-7720" label="Christopher M Grochowski">
+        <viz:color r="67" g="58" b="131" a="1.0" />
+        <viz:size value="5.0769230769230775" />
+        <attvalues>
+          <attvalue for="0" value="22" />
+        </attvalues>
+      </node>
+      <node id="0000-0002-9190-3568" label="Olga Lucía Sarmiento">
+        <viz:color r="64" g="67" b="135" a="1.0" />
+        <viz:size value="6.0" />
+        <attvalues>
+          <attvalue for="0" value="26" />
+        </attvalues>
+      </node>
+      <node id="0000-0002-5333-7286" label="Inês Luis">
+        <viz:color r="67" g="58" b="131" a="1.0" />
+        <viz:size value="5.0769230769230775" />
+        <attvalues>
+          <attvalue for="0" value="22" />
+        </attvalues>
+      </node>
+      <node id="0000-0003-3676-1568" label="Andrew Hacket-Pain">
+        <viz:color r="253" g="231" b="36" a="1.0" />
+        <viz:size value="30.0" />
+        <attvalues>
+          <attvalue for="0" value="130" />
+        </attvalues>
+      </node>
+      <node id="0000-0003-3372-5940" label="Victor Boutin">
+        <viz:color r="69" g="5" b="88" a="1.0" />
+        <viz:size value="0.46153846153846156" />
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="0000-0003-4597-5963" label="Daniel H Goldhill">
+        <viz:color r="72" g="33" b="114" a="1.0" />
+        <viz:size value="2.769230769230769" />
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </node>
+      <node id="0000-0002-2224-7456" label="Zhenbin Zhang">
+        <viz:color r="68" g="2" b="85" a="1.0" />
+        <viz:size value="0.23076923076923078" />
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="0000-0002-2454-4753" label="Adrián Salazar-Sánchez">
+        <viz:color r="69" g="8" b="91" a="1.0" />
+        <viz:size value="0.6923076923076923" />
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="0000-0002-5288-5037" label="Zhaopei Liu">
+        <viz:color r="70" g="11" b="94" a="1.0" />
+        <viz:size value="0.9230769230769231" />
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+      <node id="0000-0002-4492-8383" label="Zsuzsa Kalmár">
+        <viz:color r="70" g="45" b="124" a="1.0" />
+        <viz:size value="3.9230769230769234" />
+        <attvalues>
+          <attvalue for="0" value="17" />
+        </attvalues>
+      </node>
+      <node id="0000-0003-1750-3395" label="Rainer Kaiser">
+        <viz:color r="71" g="43" b="122" a="1.0" />
+        <viz:size value="3.6923076923076925" />
+        <attvalues>
+          <attvalue for="0" value="16" />
+        </attvalues>
+      </node>
+      <node id="0000-0002-1466-5746" label="Incilay Lay">
+        <viz:color r="71" g="17" b="99" a="1.0" />
+        <viz:size value="1.3846153846153846" />
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </node>
+      <node id="0000-0002-5614-0737" label="Yawei Li">
+        <viz:color r="69" g="5" b="88" a="1.0" />
+        <viz:size value="0.46153846153846156" />
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="0000-0002-8195-1267" label="Hirohisa Fujikawa">
+        <viz:color r="71" g="20" b="102" a="1.0" />
+        <viz:size value="1.6153846153846154" />
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </node>
+      <node id="0000-0002-3477-9986" label="Geunwon Kim">
+        <viz:color r="70" g="11" b="94" a="1.0" />
+        <viz:size value="0.9230769230769231" />
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+      <node id="0000-0001-9792-5971" label="Weiwei Xiao">
+        <viz:color r="71" g="17" b="99" a="1.0" />
+        <viz:size value="1.3846153846153846" />
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </node>
+      <node id="0000-0001-9498-1505" label="Kunal Masania">
+        <viz:color r="71" g="22" b="105" a="1.0" />
+        <viz:size value="1.8461538461538463" />
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </node>
+      <node id="0000-0002-4140-9959" label="Shin-Ichi Kawaguchi">
+        <viz:color r="68" g="2" b="85" a="1.0" />
+        <viz:size value="0.23076923076923078" />
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="0000-0001-6138-2338" label="Anna-Liisa Elorinne">
+        <viz:color r="69" g="8" b="91" a="1.0" />
+        <viz:size value="0.6923076923076923" />
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="0000-0001-9323-2035" label="Zhimiao Lin">
+        <viz:color r="72" g="28" b="110" a="1.0" />
+        <viz:size value="2.307692307692308" />
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="0000-0001-5979-3082" label="Bei Liu">
+        <viz:color r="71" g="22" b="105" a="1.0" />
+        <viz:size value="1.8461538461538463" />
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </node>
+      <node id="0000-0001-9685-9220" label="Chuansheng Hu">
+        <viz:color r="69" g="5" b="88" a="1.0" />
+        <viz:size value="0.46153846153846156" />
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="0000-0003-1521-7520" label="Alejandro P Comellas">
+        <viz:color r="67" g="58" b="131" a="1.0" />
+        <viz:size value="5.0769230769230775" />
+        <attvalues>
+          <attvalue for="0" value="22" />
+        </attvalues>
+      </node>
+      <node id="0000-0002-0340-4487" label="Fethi Emre Ustabaşıoğlu">
+        <viz:color r="70" g="11" b="94" a="1.0" />
+        <viz:size value="0.9230769230769231" />
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+      <node id="0000-0001-6422-6103" label="Can Zhao">
+        <viz:color r="69" g="5" b="88" a="1.0" />
+        <viz:size value="0.46153846153846156" />
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="0000-0002-4001-1615" label="O Bruno">
+        <viz:color r="70" g="11" b="94" a="1.0" />
+        <viz:size value="0.9230769230769231" />
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+      <node id="0000-0003-4923-9410" label="Maznah Dahlui">
+        <viz:color r="70" g="45" b="124" a="1.0" />
+        <viz:size value="3.9230769230769234" />
+        <attvalues>
+          <attvalue for="0" value="17" />
+        </attvalues>
+      </node>
+      <node id="0000-0002-1478-2424" label="Scott J Nimmons">
+        <viz:color r="69" g="8" b="91" a="1.0" />
+        <viz:size value="0.6923076923076923" />
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="0000-0002-1047-6227" label="Nicole Weisschuh">
+        <viz:color r="71" g="17" b="99" a="1.0" />
+        <viz:size value="1.3846153846153846" />
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </node>
+      <node id="0000-0003-3368-5053" label="Rui Pedro Galão">
+        <viz:color r="71" g="22" b="105" a="1.0" />
+        <viz:size value="1.8461538461538463" />
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </node>
+      <node id="0000-0002-6289-6872" label="Yangfan Zhuang">
+        <viz:color r="68" g="1" b="84" a="1.0" />
+        <viz:size value="0.0" />
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="0000-0003-1699-5842" label="Magdalena Rys">
+        <viz:color r="71" g="22" b="105" a="1.0" />
+        <viz:size value="1.8461538461538463" />
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </node>
+      <node id="0000-0002-1492-8710" label="David G Bourne">
+        <viz:color r="71" g="22" b="105" a="1.0" />
+        <viz:size value="1.8461538461538463" />
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </node>
+      <node id="0000-0002-1469-0757" label="Yong Liu">
+        <viz:color r="68" g="1" b="84" a="1.0" />
+        <viz:size value="0.0" />
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="0000-0003-0776-5885" label="Leo Nicolai">
+        <viz:color r="70" g="48" b="125" a="1.0" />
+        <viz:size value="4.153846153846154" />
+        <attvalues>
+          <attvalue for="0" value="18" />
+        </attvalues>
+      </node>
+      <node id="0000-0001-6031-9783" label="Valentin Weisse">
+        <viz:color r="68" g="2" b="85" a="1.0" />
+        <viz:size value="0.23076923076923078" />
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="0000-0002-5287-6608" label="Xuan Yi">
+        <viz:color r="70" g="11" b="94" a="1.0" />
+        <viz:size value="0.9230769230769231" />
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="0000-0002-9442-8301" target="0000-0002-5333-7286" id="0" weight="4">
+        <viz:color r="239" g="248" b="33" a="1.0" />
+        <viz:thickness value="10.0" />
+      </edge>
+      <edge source="0000-0002-9442-8301" target="0000-0002-9704-6579" id="1" weight="4">
+        <viz:color r="239" g="248" b="33" a="1.0" />
+        <viz:thickness value="10.0" />
+      </edge>
+      <edge source="0000-0002-2140-9732" target="0000-0001-6400-9600" id="2" weight="2">
+        <viz:color r="203" g="71" b="119" a="1.0" />
+        <viz:thickness value="5.0" />
+      </edge>
+      <edge source="0000-0002-3484-3423" target="0000-0002-3884-7720" id="3" weight="1">
+        <viz:color r="126" g="3" b="167" a="1.0" />
+        <viz:thickness value="2.5" />
+      </edge>
+      <edge source="0000-0002-9704-6579" target="0000-0002-5333-7286" id="4" weight="4">
+        <viz:color r="239" g="248" b="33" a="1.0" />
+        <viz:thickness value="10.0" />
+      </edge>
+      <edge source="0000-0003-4597-5963" target="0000-0003-3368-5053" id="5" weight="1">
+        <viz:color r="126" g="3" b="167" a="1.0" />
+        <viz:thickness value="2.5" />
+      </edge>
+      <edge source="0000-0003-1750-3395" target="0000-0003-0776-5885" id="6" weight="2">
+        <viz:color r="203" g="71" b="119" a="1.0" />
+        <viz:thickness value="5.0" />
+      </edge>
+    </edges>
+  </graph>
+</gexf>
